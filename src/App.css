@@ -1,0 +1,35 @@
+.lists{
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 1%;
+  flex-wrap: wrap;
+}
+
+button{
+  border: none;
+  height: 41px;
+  border-radius: 5px;
+  color: aqua;
+  color:black;
+  background: gray;
+  margin: 5px;
+
+}
+
+input{
+  margin: 2%;
+  width: 50%;
+  
+}
+.description{
+  text-align: center;
+  background: bisque;
+}
+.titlle{
+  font-weight: 600;
+}
+.year{
+  font-weight: 600;
+  color: cornflowerblue;
+}
